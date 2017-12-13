@@ -7,3 +7,4 @@ var  Hello = require('./hello');
 var hello = new Hello();
 hello.setName('Mwj');
 hello.sayHello();
+console.log('git from branch dev');
