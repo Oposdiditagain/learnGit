@@ -8,4 +8,4 @@ var hello = new Hello();
 hello.setName('Mwj');
 hello.sayHello();
 console.log('git from branch dev');
-console.log('git branch merge with no-off');
+
